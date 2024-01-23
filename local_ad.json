@@ -1,4 +1,7 @@
 {
-  'ad_off':true,
-  'message':[]
+  "ad_off":true,
+  "message":[
+    {"url":"","image":""},
+    {"url":"","image":""},
+  ]
 }
